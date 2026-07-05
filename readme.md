@@ -20,6 +20,3 @@ Then you should find the coordinates of elements by using find_the_cords.py and 
 - A rectangle coordinate on the left side of the tree (top-left and bottom-right) {the rectangle should cover the player area and be slightly taller}  
 - A rectangle coordinate on the right side of the tree
 
-## Demo
-https://github.com/parsisor/LumberJack-Telegram-Game/blob/main/demo.mp4
-see demo in [here](https://github.com/parsisor/LumberJack-Telegram-Game/blob/main/demo.mp4)
